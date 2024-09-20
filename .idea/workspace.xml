@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9be36859-b6dd-4c93-91b4-a6771f182ebf" name="Changes" comment="all files">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task18092024.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task13092024_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task13092024_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task16092024.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sept13092024/Task1table10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sept13092024/Task2calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +37,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -63,43 +53,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Task1table10.executor": "Debug",
-    "Application.Task2calculator.executor": "Run",
-    "Application.lab001.executor": "Run",
-    "Application.lab002_Assignment_operator.executor": "Run",
-    "Application.lab003_Arithmetic_operator.executor": "Run",
-    "Application.lab005.executor": "Run",
-    "Application.lab006.executor": "Run",
-    "Application.lab007.executor": "Run",
-    "Application.lab008.executor": "Run",
-    "Application.lab009_Compound_operator.executor": "Run",
-    "Application.lab010.executor": "Run",
-    "Application.lab010_Relational_operator.executor": "Run",
-    "Application.lab011_logical_operators.executor": "Run",
-    "Application.lab012.executor": "Run",
-    "Application.lab013.executor": "Run",
-    "Application.lab014.executor": "Run",
-    "Application.lab015.executor": "Run",
-    "Application.task1.executor": "Run",
-    "Application.task16092024.executor": "Run",
-    "Application.task18092024.executor": "Run",
-    "Application.task2.executor": "Run",
-    "Application.task3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME",
-    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pathVariables"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1table10.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Task2calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab002_Assignment_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab003_Arithmetic_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab009_Compound_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab010_Relational_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab011_logical_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task16092024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task18092024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingContextRecentDirectoryCache">
     <option name="paths">
       <recentPaths value="$PROJECT_DIR$" />
@@ -122,7 +112,71 @@
       <option name="project" value="LOCAL" />
       <updated>1726773002452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726857052060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857052060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726857055054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857055054</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726857061295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857061295</updated>
+    </task>
+    <task id="LOCAL-00005" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726857062741</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857062741</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726857063443</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857063443</updated>
+    </task>
+    <task id="LOCAL-00007" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726857063729</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857063729</updated>
+    </task>
+    <task id="LOCAL-00008" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726857063994</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857063994</updated>
+    </task>
+    <task id="LOCAL-00009" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726857064330</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857064330</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
