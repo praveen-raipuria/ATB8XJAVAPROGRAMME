@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9be36859-b6dd-4c93-91b4-a6771f182ebf" name="Changes" comment="all files">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task18092024.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task13092024_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task13092024_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task16092024.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept13092024/Task1table10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept13092024/Task2calculator.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+                <branch-info repo="$PROJECT_DIR$/src/sept09092024" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mId9eNNIWTFnWW23WX3NMHj0KV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Task1table10.executor": "Debug",
+    "Application.Task2calculator.executor": "Run",
+    "Application.lab001.executor": "Run",
+    "Application.lab002_Assignment_operator.executor": "Run",
+    "Application.lab003_Arithmetic_operator.executor": "Run",
+    "Application.lab005.executor": "Run",
+    "Application.lab006.executor": "Run",
+    "Application.lab007.executor": "Run",
+    "Application.lab008.executor": "Run",
+    "Application.lab009_Compound_operator.executor": "Run",
+    "Application.lab010.executor": "Run",
+    "Application.lab010_Relational_operator.executor": "Run",
+    "Application.lab011_logical_operators.executor": "Run",
+    "Application.lab012.executor": "Run",
+    "Application.lab013.executor": "Run",
+    "Application.lab014.executor": "Run",
+    "Application.lab015.executor": "Run",
+    "Application.task1.executor": "Run",
+    "Application.task16092024.executor": "Run",
+    "Application.task18092024.executor": "Run",
+    "Application.task2.executor": "Run",
+    "Application.task3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME",
+    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
+  }
+}]]></component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9be36859-b6dd-4c93-91b4-a6771f182ebf" name="Changes" comment="" />
+      <created>1726767876203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726767876203</updated>
+    </task>
+    <task id="LOCAL-00001" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726773002452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726773002452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,6 +1,6 @@
 package Task;
 
-public class task3 {
+public class task16092024 {
     public static void main(String[] args) {
 
 
