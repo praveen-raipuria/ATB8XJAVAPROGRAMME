@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9be36859-b6dd-4c93-91b4-a6771f182ebf" name="Changes" comment="all files">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATB8XJAVAPROGRAMME.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ATB8XJavaProgramme.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,43 +55,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task1table10.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Task2calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab002_Assignment_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab003_Arithmetic_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab009_Compound_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab010_Relational_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab011_logical_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab015.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task16092024.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task18092024.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Task1table10.executor": "Debug",
+    "Application.Task2calculator.executor": "Run",
+    "Application.lab001.executor": "Run",
+    "Application.lab002.executor": "Run",
+    "Application.lab002_Assignment_operator.executor": "Run",
+    "Application.lab003.executor": "Run",
+    "Application.lab003_Arithmetic_operator.executor": "Run",
+    "Application.lab004.executor": "Run",
+    "Application.lab005.executor": "Run",
+    "Application.lab006.executor": "Run",
+    "Application.lab007.executor": "Run",
+    "Application.lab008.executor": "Run",
+    "Application.lab009.executor": "Run",
+    "Application.lab009_Compound_operator.executor": "Run",
+    "Application.lab010.executor": "Run",
+    "Application.lab010_Relational_operator.executor": "Run",
+    "Application.lab011.executor": "Run",
+    "Application.lab011_logical_operators.executor": "Run",
+    "Application.lab012.executor": "Run",
+    "Application.lab013.executor": "Run",
+    "Application.lab014.executor": "Run",
+    "Application.lab015.executor": "Run",
+    "Application.lab016.executor": "Run",
+    "Application.lab017.executor": "Run",
+    "Application.lab018.executor": "Run",
+    "Application.lab019.executor": "Run",
+    "Application.lab020.executor": "Run",
+    "Application.lab021.executor": "Run",
+    "Application.lab022.executor": "Run",
+    "Application.lab023.executor": "Run",
+    "Application.task1.executor": "Run",
+    "Application.task16092024.executor": "Run",
+    "Application.task18092024.executor": "Run",
+    "Application.task2.executor": "Run",
+    "Application.task20092024.executor": "Run",
+    "Application.task20092024_2.executor": "Run",
+    "Application.task20092024_3.executor": "Run",
+    "Application.task20092024_Ternaryoperators.executor": "Run",
+    "Application.task20092024_fizbuzz.executor": "Run",
+    "Application.task23092024_convertor.executor": "Run",
+    "Application.task23092024_month_using_switch.executor": "Run",
+    "Application.task23092024_simplecalculator_using_switch.executor": "Run",
+    "Application.task3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME",
+    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   }
-}</component>
+}]]></component>
   <component name="RunAnythingContextRecentDirectoryCache">
     <option name="paths">
       <recentPaths value="$PROJECT_DIR$" />
@@ -176,7 +199,63 @@
       <option name="project" value="LOCAL" />
       <updated>1726857064330</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726857973465</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857973465</updated>
+    </task>
+    <task id="LOCAL-00011" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726898299564</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726898299564</updated>
+    </task>
+    <task id="LOCAL-00012" summary="all files">
+      <option name="closed" value="true" />
+      <created>1726898397561</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726898397561</updated>
+    </task>
+    <task id="LOCAL-00013" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727094972624</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727094972624</updated>
+    </task>
+    <task id="LOCAL-00014" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727097385836</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727097385836</updated>
+    </task>
+    <task id="LOCAL-00015" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727098463536</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727098463536</updated>
+    </task>
+    <task id="LOCAL-00016" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727238323826</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727238323826</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
