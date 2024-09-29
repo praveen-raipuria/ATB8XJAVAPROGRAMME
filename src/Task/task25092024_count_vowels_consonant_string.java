@@ -1,4 +1,7 @@
 package Task;
+
+import org.w3c.dom.ls.LSOutput;
+
 //Count vowels and consonants in a String. (pramod) - v = 2 , c =. 4
 public class task25092024_count_vowels_consonant_string {
     public static void main(String[] args) {
@@ -18,3 +21,5 @@ public class task25092024_count_vowels_consonant_string {
         System.out.println("Consonants: " + consonants);
     }
 }
+
+
