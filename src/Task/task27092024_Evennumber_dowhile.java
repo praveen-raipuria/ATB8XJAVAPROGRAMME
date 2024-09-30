@@ -45,3 +45,12 @@ count++;
 num++;
         }while (count<5);
         }}
+
+// Print the First 5 Even Numbers
+//int count = 1;
+//int number = 2;
+//        do {
+//                System.out.println(number);
+//number +=2;
+//count++;
+//        }while (count <= 5);
