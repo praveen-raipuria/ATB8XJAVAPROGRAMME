@@ -40,7 +40,7 @@ public class task27092024_sum_100 {
 //        do {
 //sum += i; // Add i to sum
 //i++; // Increment i
-//        } while (i <= 100); // Continue until i is greater than 100
+//        } while (i <= 100); // Continue until 1 is greater than 100
 //
 //        System.out.println("The sum of numbers from 1 to 100 is: " + sum);
 //
