@@ -1,4 +1,4 @@
-package oct28102024_CollectioFramework;
+package oct28102024_CollectionFramework;
 
 import java.util.ArrayList;
 import java.util.List;

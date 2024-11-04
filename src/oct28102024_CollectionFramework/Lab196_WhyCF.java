@@ -1,4 +1,4 @@
-package oct28102024_CollectioFramework;
+package oct28102024_CollectionFramework;
 
 public class Lab196_WhyCF {
     public static void main(String[] args) {

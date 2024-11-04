@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9be36859-b6dd-4c93-91b4-a6771f182ebf" name="Changes" comment="all files">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/oct/oct14102024_Book_Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/oct/oct14102024_PrintMyBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/oct/oct14102024_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_SET/Lab209_SET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_SET/Lab210_SET_HS_LHS_TS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_part2/Lab205_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_part2/Lab206_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_part2/Lab207_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_part2/Lab208_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ATB8XJAVAPROGRAMME.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ATB8XJavaProgramme.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab196_WhyCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab196_WhyCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab197_Array_ArrayList_CF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab197_Array_ArrayList_CF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab198_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab198_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab199_List_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab199_List_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab200_List_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab200_List_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab201_List_ArrayList_Forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab201_List_ArrayList_Forloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab202_List_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab202_List_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab203_List_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab203_List_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab204_List_ArrayList_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab204_List_ArrayList_Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab205_Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab205_Vector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -57,9 +75,87 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Dog.executor": "Run",
+    "Application.Lab001.executor": "Run",
+    "Application.Lab129.executor": "Run",
+    "Application.Lab130.executor": "Run",
+    "Application.Lab131.executor": "Run",
+    "Application.Lab133.executor": "Run",
+    "Application.Lab134.executor": "Run",
+    "Application.Lab136.executor": "Run",
+    "Application.Lab137.executor": "Run",
+    "Application.Lab139.executor": "Run",
+    "Application.Lab144.executor": "Run",
+    "Application.Lab145.executor": "Run",
+    "Application.Lab146.executor": "Run",
+    "Application.Lab147.executor": "Run",
+    "Application.Lab148.executor": "Run",
+    "Application.Lab152.executor": "Run",
+    "Application.Lab153.executor": "Run",
+    "Application.Lab154.executor": "Run",
+    "Application.Lab156.executor": "Run",
+    "Application.Lab157_Enum.executor": "Run",
+    "Application.Lab158_ENUM.executor": "Run",
+    "Application.Lab159.executor": "Run",
+    "Application.Lab160_Strings_Functions.executor": "Run",
+    "Application.Lab161_Strings_Functions.executor": "Run",
+    "Application.Lab163_StringsBuilder_StringsBuffer.executor": "Run",
+    "Application.Lab164.executor": "Run",
+    "Application.Lab166.executor": "Run",
+    "Application.Lab167.executor": "Run",
+    "Application.Lab168.executor": "Run",
+    "Application.Lab169.executor": "Run",
+    "Application.Lab170_Exception.executor": "Run",
+    "Application.Lab171_Exception.executor": "Run",
+    "Application.Lab172_Exception.executor": "Run",
+    "Application.Lab173_Exception.executor": "Run",
+    "Application.Lab174_Exception.executor": "Run",
+    "Application.Lab175.executor": "Run",
+    "Application.Lab176_Exception_Handle.executor": "Run",
+    "Application.Lab178_Exception_OR.executor": "Run",
+    "Application.Lab178_Parent.executor": "Run",
+    "Application.Lab179.executor": "Run",
+    "Application.Lab180_Interview_Exception.executor": "Run",
+    "Application.Lab181_Exception2.executor": "Run",
+    "Application.Lab182_UnChecked_Checked.executor": "Run",
+    "Application.Lab183_Custom_Exception.executor": "Run",
+    "Application.Lab184_Throws.executor": "Run",
+    "Application.Lab185_Finally.executor": "Run",
+    "Application.Lab186_Try.executor": "Run",
+    "Application.Lab188.executor": "Run",
+    "Application.Lab189.executor": "Run",
+    "Application.Lab189_Arrays_String.executor": "Run",
+    "Application.Lab190_Arrays_String.executor": "Run",
+    "Application.Lab191_Arrays.executor": "Run",
+    "Application.Lab192_Arrays_1D.executor": "Run",
+    "Application.Lab193_Arrays_2D.executor": "Run",
+    "Application.Lab194_Arrays_2D_Iterate.executor": "Run",
+    "Application.Lab195_RightTriangle_Arrays_2D.executor": "Run",
+    "Application.Lab196_WhyCF.executor": "Run",
+    "Application.Lab197_Array_ArrayList_CF.executor": "Run",
+    "Application.Lab198_List.executor": "Run",
+    "Application.Lab199_List_ArrayList.executor": "Run",
+    "Application.Lab200_List_ArrayList.executor": "Run",
+    "Application.Lab200_List_ArrayList_Forloop.executor": "Run",
+    "Application.Lab201_List_ArrayList.executor": "Run",
+    "Application.Lab202_List_ArrayList.executor": "Run",
+    "Application.Lab203_List_ArrayList.executor": "Run",
+    "Application.Lab204_List_ArrayList_Iterator.executor": "Run",
+    "Application.Lab205_LinkedList.executor": "Run",
+    "Application.Lab205_Vector.executor": "Run",
+    "Application.Lab206_LinkedList.executor": "Run",
+    "Application.Lab207_Stack.executor": "Run",
+    "Application.Lab208_List.executor": "Run",
+    "Application.Lab209_SET.executor": "Run",
+    "Application.Lab_Exception_MultiCatch.executor": "Run",
+    "Application.Lab_Strings_immutable.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Suraj.executor": "Run",
+    "Application.TASK_APIAutomationAPI.executor": "Run",
     "Application.Task1table10.executor": "Debug",
     "Application.Task2calculator.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.lab001.executor": "Run",
     "Application.lab002.executor": "Run",
     "Application.lab002_Assignment_operator.executor": "Run",
@@ -78,7 +174,7 @@
     "Application.lab011_logical_operators.executor": "Run",
     "Application.lab012.executor": "Run",
     "Application.lab013.executor": "Run",
-    "Application.lab014.executor": "Run",
+    "Application.lab014.executor": "Debug",
     "Application.lab015.executor": "Run",
     "Application.lab016.executor": "Run",
     "Application.lab017.executor": "Run",
@@ -88,6 +184,13 @@
     "Application.lab021.executor": "Run",
     "Application.lab022.executor": "Run",
     "Application.lab023.executor": "Run",
+    "Application.lab130.executor": "Run",
+    "Application.lab132.executor": "Run",
+    "Application.lab137.executor": "Run",
+    "Application.oct02102024_Class_objects.executor": "Run",
+    "Application.oct02102024_oops_features.executor": "Run",
+    "Application.oct11102024_APIAUTOMATION_HTTP.executor": "Run",
+    "Application.oct11102024_APIAutomation.executor": "Run",
     "Application.task1.executor": "Run",
     "Application.task16092024.executor": "Run",
     "Application.task18092024.executor": "Run",
@@ -97,10 +200,22 @@
     "Application.task20092024_3.executor": "Run",
     "Application.task20092024_Ternaryoperators.executor": "Run",
     "Application.task20092024_fizbuzz.executor": "Run",
+    "Application.task21102024_LengthofString.executor": "Run",
+    "Application.task21102024_Palindrome.executor": "Run",
+    "Application.task21102024_Reverse_of_a_String.executor": "Run",
     "Application.task23092024_convertor.executor": "Run",
     "Application.task23092024_month_using_switch.executor": "Run",
     "Application.task23092024_simplecalculator_using_switch.executor": "Run",
+    "Application.task25092024_count_vowels_consonant_string.executor": "Run",
+    "Application.task25092024_factorialprogram.executor": "Run",
+    "Application.task25092024_primenumbers.executor": "Run",
+    "Application.task25092024_table_usingloop.executor": "Run",
+    "Application.task25102024_PyramidPattern.executor": "Run",
+    "Application.task27092024_Evennumber_dowhile.executor": "Run",
+    "Application.task27092024_sum_100.executor": "Run",
+    "Application.task27092024_while_dowhile.executor": "Run",
     "Application.task3.executor": "Run",
+    "Application.task30092024_prime_number_using_function.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -110,9 +225,17 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pathVariables"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Task.oct" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="oct09102024_inheritance" />
+    </key>
+  </component>
   <component name="RunAnythingContextRecentDirectoryCache">
     <option name="paths">
       <recentPaths value="$PROJECT_DIR$" />
@@ -255,7 +378,167 @@
       <option name="project" value="LOCAL" />
       <updated>1727238323826</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727238693443</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727238693443</updated>
+    </task>
+    <task id="LOCAL-00018" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727244151511</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727244151511</updated>
+    </task>
+    <task id="LOCAL-00019" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727458260255</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727458260255</updated>
+    </task>
+    <task id="LOCAL-00020" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727622460423</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727622460423</updated>
+    </task>
+    <task id="LOCAL-00021" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727701170373</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1727701170373</updated>
+    </task>
+    <task id="LOCAL-00022" summary="all files">
+      <option name="closed" value="true" />
+      <created>1727793879546</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1727793879546</updated>
+    </task>
+    <task id="LOCAL-00023" summary="all files">
+      <option name="closed" value="true" />
+      <created>1728147699611</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1728147699611</updated>
+    </task>
+    <task id="LOCAL-00024" summary="all files">
+      <option name="closed" value="true" />
+      <created>1728149534874</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1728149534874</updated>
+    </task>
+    <task id="LOCAL-00025" summary="all files">
+      <option name="closed" value="true" />
+      <created>1728825279714</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1728825279714</updated>
+    </task>
+    <task id="LOCAL-00026" summary="all files">
+      <option name="closed" value="true" />
+      <created>1728841635942</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1728841635942</updated>
+    </task>
+    <task id="LOCAL-00027" summary="all files">
+      <option name="closed" value="true" />
+      <created>1729516339501</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1729516339501</updated>
+    </task>
+    <task id="LOCAL-00028" summary="all files">
+      <option name="closed" value="true" />
+      <created>1729677872368</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729677872368</updated>
+    </task>
+    <task id="LOCAL-00029" summary="all files">
+      <option name="closed" value="true" />
+      <created>1729690147438</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1729690147438</updated>
+    </task>
+    <task id="LOCAL-00030" summary="all files">
+      <option name="closed" value="true" />
+      <created>1729792798785</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729792798785</updated>
+    </task>
+    <task id="LOCAL-00031" summary="all files">
+      <option name="closed" value="true" />
+      <created>1729793923912</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1729793923912</updated>
+    </task>
+    <task id="LOCAL-00032" summary="all files">
+      <option name="closed" value="true" />
+      <created>1729794447472</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1729794447472</updated>
+    </task>
+    <task id="LOCAL-00033" summary="all files">
+      <option name="closed" value="true" />
+      <created>1729856346850</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1729856346850</updated>
+    </task>
+    <task id="LOCAL-00034" summary="all files">
+      <option name="closed" value="true" />
+      <created>1729856880807</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1729856880807</updated>
+    </task>
+    <task id="LOCAL-00035" summary="all files">
+      <option name="closed" value="true" />
+      <created>1729857933293</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1729857933293</updated>
+    </task>
+    <task id="LOCAL-00036" summary="all files">
+      <option name="closed" value="true" />
+      <created>1730112691593</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1730112691593</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,5 +555,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ATB8XJAVAPROGRAMME$Lab175.ic" NAME="Lab175 Coverage Results" MODIFIED="1729853228045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>oct23102024_Exception.*</FILTER>
+    </SUITE>
   </component>
 </project>

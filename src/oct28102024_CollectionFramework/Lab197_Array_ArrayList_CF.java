@@ -1,7 +1,6 @@
-package oct28102024_CollectioFramework;
+package oct28102024_CollectionFramework;
 
 import java.util.ArrayList;
-import java.util.Collection;
 
 public class Lab197_Array_ArrayList_CF {
     public static void main(String[] args) {
