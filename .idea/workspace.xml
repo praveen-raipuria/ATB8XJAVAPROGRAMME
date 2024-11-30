@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9be36859-b6dd-4c93-91b4-a6771f182ebf" name="Changes" comment="all files">
-      <change afterPath="$PROJECT_DIR$/src/Task/oct/oct14102024_Book_Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/oct/oct14102024_PrintMyBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/oct/oct14102024_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_SET/Lab209_SET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_SET/Lab210_SET_HS_LHS_TS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_part2/Lab205_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_part2/Lab206_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_part2/Lab207_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct30102024_Collection_Framework_part2/Lab208_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab196_WhyCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab196_WhyCF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab197_Array_ArrayList_CF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab197_Array_ArrayList_CF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab198_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab198_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab199_List_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab199_List_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab200_List_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab200_List_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab201_List_ArrayList_Forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab201_List_ArrayList_Forloop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab202_List_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab202_List_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab203_List_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab203_List_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab204_List_ArrayList_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab204_List_ArrayList_Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct28102024_CollectioFramework/Lab205_Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct28102024_CollectionFramework/Lab205_Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task04112024_Hashtable_Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task04112024_Hashtable_Hashmap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,161 +55,177 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Dog.executor": "Run",
-    "Application.Lab001.executor": "Run",
-    "Application.Lab129.executor": "Run",
-    "Application.Lab130.executor": "Run",
-    "Application.Lab131.executor": "Run",
-    "Application.Lab133.executor": "Run",
-    "Application.Lab134.executor": "Run",
-    "Application.Lab136.executor": "Run",
-    "Application.Lab137.executor": "Run",
-    "Application.Lab139.executor": "Run",
-    "Application.Lab144.executor": "Run",
-    "Application.Lab145.executor": "Run",
-    "Application.Lab146.executor": "Run",
-    "Application.Lab147.executor": "Run",
-    "Application.Lab148.executor": "Run",
-    "Application.Lab152.executor": "Run",
-    "Application.Lab153.executor": "Run",
-    "Application.Lab154.executor": "Run",
-    "Application.Lab156.executor": "Run",
-    "Application.Lab157_Enum.executor": "Run",
-    "Application.Lab158_ENUM.executor": "Run",
-    "Application.Lab159.executor": "Run",
-    "Application.Lab160_Strings_Functions.executor": "Run",
-    "Application.Lab161_Strings_Functions.executor": "Run",
-    "Application.Lab163_StringsBuilder_StringsBuffer.executor": "Run",
-    "Application.Lab164.executor": "Run",
-    "Application.Lab166.executor": "Run",
-    "Application.Lab167.executor": "Run",
-    "Application.Lab168.executor": "Run",
-    "Application.Lab169.executor": "Run",
-    "Application.Lab170_Exception.executor": "Run",
-    "Application.Lab171_Exception.executor": "Run",
-    "Application.Lab172_Exception.executor": "Run",
-    "Application.Lab173_Exception.executor": "Run",
-    "Application.Lab174_Exception.executor": "Run",
-    "Application.Lab175.executor": "Run",
-    "Application.Lab176_Exception_Handle.executor": "Run",
-    "Application.Lab178_Exception_OR.executor": "Run",
-    "Application.Lab178_Parent.executor": "Run",
-    "Application.Lab179.executor": "Run",
-    "Application.Lab180_Interview_Exception.executor": "Run",
-    "Application.Lab181_Exception2.executor": "Run",
-    "Application.Lab182_UnChecked_Checked.executor": "Run",
-    "Application.Lab183_Custom_Exception.executor": "Run",
-    "Application.Lab184_Throws.executor": "Run",
-    "Application.Lab185_Finally.executor": "Run",
-    "Application.Lab186_Try.executor": "Run",
-    "Application.Lab188.executor": "Run",
-    "Application.Lab189.executor": "Run",
-    "Application.Lab189_Arrays_String.executor": "Run",
-    "Application.Lab190_Arrays_String.executor": "Run",
-    "Application.Lab191_Arrays.executor": "Run",
-    "Application.Lab192_Arrays_1D.executor": "Run",
-    "Application.Lab193_Arrays_2D.executor": "Run",
-    "Application.Lab194_Arrays_2D_Iterate.executor": "Run",
-    "Application.Lab195_RightTriangle_Arrays_2D.executor": "Run",
-    "Application.Lab196_WhyCF.executor": "Run",
-    "Application.Lab197_Array_ArrayList_CF.executor": "Run",
-    "Application.Lab198_List.executor": "Run",
-    "Application.Lab199_List_ArrayList.executor": "Run",
-    "Application.Lab200_List_ArrayList.executor": "Run",
-    "Application.Lab200_List_ArrayList_Forloop.executor": "Run",
-    "Application.Lab201_List_ArrayList.executor": "Run",
-    "Application.Lab202_List_ArrayList.executor": "Run",
-    "Application.Lab203_List_ArrayList.executor": "Run",
-    "Application.Lab204_List_ArrayList_Iterator.executor": "Run",
-    "Application.Lab205_LinkedList.executor": "Run",
-    "Application.Lab205_Vector.executor": "Run",
-    "Application.Lab206_LinkedList.executor": "Run",
-    "Application.Lab207_Stack.executor": "Run",
-    "Application.Lab208_List.executor": "Run",
-    "Application.Lab209_SET.executor": "Run",
-    "Application.Lab_Exception_MultiCatch.executor": "Run",
-    "Application.Lab_Strings_immutable.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Person.executor": "Run",
-    "Application.Suraj.executor": "Run",
-    "Application.TASK_APIAutomationAPI.executor": "Run",
-    "Application.Task1table10.executor": "Debug",
-    "Application.Task2calculator.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.lab001.executor": "Run",
-    "Application.lab002.executor": "Run",
-    "Application.lab002_Assignment_operator.executor": "Run",
-    "Application.lab003.executor": "Run",
-    "Application.lab003_Arithmetic_operator.executor": "Run",
-    "Application.lab004.executor": "Run",
-    "Application.lab005.executor": "Run",
-    "Application.lab006.executor": "Run",
-    "Application.lab007.executor": "Run",
-    "Application.lab008.executor": "Run",
-    "Application.lab009.executor": "Run",
-    "Application.lab009_Compound_operator.executor": "Run",
-    "Application.lab010.executor": "Run",
-    "Application.lab010_Relational_operator.executor": "Run",
-    "Application.lab011.executor": "Run",
-    "Application.lab011_logical_operators.executor": "Run",
-    "Application.lab012.executor": "Run",
-    "Application.lab013.executor": "Run",
-    "Application.lab014.executor": "Debug",
-    "Application.lab015.executor": "Run",
-    "Application.lab016.executor": "Run",
-    "Application.lab017.executor": "Run",
-    "Application.lab018.executor": "Run",
-    "Application.lab019.executor": "Run",
-    "Application.lab020.executor": "Run",
-    "Application.lab021.executor": "Run",
-    "Application.lab022.executor": "Run",
-    "Application.lab023.executor": "Run",
-    "Application.lab130.executor": "Run",
-    "Application.lab132.executor": "Run",
-    "Application.lab137.executor": "Run",
-    "Application.oct02102024_Class_objects.executor": "Run",
-    "Application.oct02102024_oops_features.executor": "Run",
-    "Application.oct11102024_APIAUTOMATION_HTTP.executor": "Run",
-    "Application.oct11102024_APIAutomation.executor": "Run",
-    "Application.task1.executor": "Run",
-    "Application.task16092024.executor": "Run",
-    "Application.task18092024.executor": "Run",
-    "Application.task2.executor": "Run",
-    "Application.task20092024.executor": "Run",
-    "Application.task20092024_2.executor": "Run",
-    "Application.task20092024_3.executor": "Run",
-    "Application.task20092024_Ternaryoperators.executor": "Run",
-    "Application.task20092024_fizbuzz.executor": "Run",
-    "Application.task21102024_LengthofString.executor": "Run",
-    "Application.task21102024_Palindrome.executor": "Run",
-    "Application.task21102024_Reverse_of_a_String.executor": "Run",
-    "Application.task23092024_convertor.executor": "Run",
-    "Application.task23092024_month_using_switch.executor": "Run",
-    "Application.task23092024_simplecalculator_using_switch.executor": "Run",
-    "Application.task25092024_count_vowels_consonant_string.executor": "Run",
-    "Application.task25092024_factorialprogram.executor": "Run",
-    "Application.task25092024_primenumbers.executor": "Run",
-    "Application.task25092024_table_usingloop.executor": "Run",
-    "Application.task25102024_PyramidPattern.executor": "Run",
-    "Application.task27092024_Evennumber_dowhile.executor": "Run",
-    "Application.task27092024_sum_100.executor": "Run",
-    "Application.task27092024_while_dowhile.executor": "Run",
-    "Application.task3.executor": "Run",
-    "Application.task30092024_prime_number_using_function.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME",
-    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab129.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab130.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab131.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab133.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab134.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab136.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab137.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab139.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab144.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab145.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab146.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab147.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab148.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab152.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab153.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab154.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab156.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab157_Enum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab158_ENUM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab159.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab160_Strings_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab161_Strings_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab163_StringsBuilder_StringsBuffer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab164.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab166.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab167.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab168.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab169.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab170_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab171_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab172_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab173_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab174_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab175.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab176_Exception_Handle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab178_Exception_OR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab178_Parent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab179.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab180_Interview_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab181_Exception2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab182_UnChecked_Checked.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab183_Custom_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab184_Throws.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab185_Finally.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab186_Try.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab188.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab189.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab189_Arrays_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab190_Arrays_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab191_Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab192_Arrays_1D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab193_Arrays_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab194_Arrays_2D_Iterate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab195_RightTriangle_Arrays_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab196_WhyCF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab197_Array_ArrayList_CF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab198_List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab199_List_ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab200_List_ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab200_List_ArrayList_Forloop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab201_List_ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab202_List_ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab203_List_ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab204_List_ArrayList_Iterator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab205_LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab205_Vector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab206_LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab207_Stack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab208_List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab209_SET.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab210_SET_HS_LHS_TS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab210_SET_PART2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab211_Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab212_Map.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab213_Map_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab214_HashTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab214_Map_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab215_HashTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab216_Generics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab216_Generics_Created.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab217_Generics_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_Exception_MultiCatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_Strings_immutable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Suraj.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TASK_APIAutomationAPI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1table10.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Task2calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab002_Assignment_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab003_Arithmetic_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab009_Compound_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab010_Relational_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab011_logical_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab014.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab130.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab132.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab137.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oct02102024_Class_objects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oct02102024_oops_features.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oct11102024_APIAUTOMATION_HTTP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oct11102024_APIAutomation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task04112024_Duplicate_Elements_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task04112024_Frequency_of_Each_Element_in_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task04112024_Hashtable_Hashmap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task04112024_Iterate_Over_Map.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task04112024_Reverse_Arraylist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task16092024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task18092024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task20092024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task20092024_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task20092024_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task20092024_Ternaryoperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task20092024_fizbuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task21102024_LengthofString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task21102024_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task21102024_Reverse_of_a_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task23092024_convertor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task23092024_month_using_switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task23092024_simplecalculator_using_switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task25092024_count_vowels_consonant_string.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task25092024_factorialprogram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task25092024_primenumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task25092024_table_usingloop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task25102024_PyramidPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task27092024_Evennumber_dowhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task27092024_sum_100.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task27092024_while_dowhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task30092024_prime_number_using_function.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Dell/IdeaProjects/ATB8XJAVAPROGRAMME/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Task.oct" />
@@ -538,8 +536,43 @@
       <option name="project" value="LOCAL" />
       <updated>1730112691593</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="all files">
+      <option name="closed" value="true" />
+      <created>1730742574748</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1730742574748</updated>
+    </task>
+    <task id="LOCAL-00038" summary="all files">
+      <option name="closed" value="true" />
+      <created>1730914706001</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1730914706001</updated>
+    </task>
+    <task id="LOCAL-00039" summary="all files">
+      <option name="closed" value="true" />
+      <created>1730916288822</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1730916288822</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="all files" />

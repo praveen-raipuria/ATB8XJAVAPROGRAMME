@@ -5,6 +5,10 @@ import java.util.Hashtable;
 
 public class task04112024_Hashtable_Hashmap {
     public static void main(String[] args) {
+
+
+
+
         //What is a Hashtable in Java, and how does it differ from HashMap?
         //Hash Map-Allows null key once and null value
         //Hash Table-Does not Allow null value and key.Legacy class,Synchronised and slow
@@ -31,3 +35,15 @@ public class task04112024_Hashtable_Hashmap {
     }
     }
 
+// HashTable
+// Thread safe
+//Legacy class
+// Slower in performance
+// Doesn"t allow null key and null values
+
+
+// HashMAp
+// Not Thread safe
+//Its part of  modern collection
+// faster in performance
+//  allow null key and multiple  null values
